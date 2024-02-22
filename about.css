@@ -1,0 +1,458 @@
+.image-28-icon {
+  position: absolute;
+  top: 0;
+  left: -396px;
+  width: 1719px;
+  height: 867px;
+  object-fit: cover;
+}
+.about-child {
+  position: absolute;
+  top: 8111px;
+  left: 0;
+  background-color: var(--color-linen);
+  width: 1280px;
+  height: 619px;
+}
+.image-1 {
+  position: absolute;
+  top: -92px;
+  left: -399px;
+  width: 1880px;
+  height: 892px;
+}
+.about3,
+.careers2,
+.clients2,
+.contact2,
+.work2 {
+  position: absolute;
+  top: 48px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  display: inline-block;
+  height: 23px;
+}
+.about3 {
+  left: 852px;
+  text-decoration: underline;
+  width: 74px;
+}
+.careers2,
+.clients2,
+.contact2,
+.work2 {
+  left: 752px;
+  width: 59px;
+  cursor: pointer;
+}
+.careers2,
+.clients2,
+.contact2 {
+  left: 954px;
+  width: 72px;
+}
+.careers2,
+.contact2 {
+  left: 1055px;
+  width: 82px;
+}
+.contact2 {
+  left: 1162px;
+  width: 83px;
+}
+.founded-in,
+.we-are-based {
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  height: 58px;
+}
+.founded-in {
+  position: absolute;
+  top: 3408px;
+  left: calc(50% - 137px);
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: inline-block;
+  width: 248px;
+}
+.we-are-based {
+  top: 4287px;
+  left: calc(50% - 189px);
+  width: 379px;
+}
+.all-over,
+.b,
+.brooklyn,
+.new-york,
+.the-world,
+.we-are-based,
+.with-clients {
+  position: absolute;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  text-align: center;
+}
+.with-clients {
+  top: 5279px;
+  left: calc(50% - 137px);
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  width: 275px;
+  height: 49px;
+}
+.all-over,
+.b,
+.brooklyn,
+.new-york,
+.the-world {
+  top: 3466px;
+  left: calc(50% - 190px);
+  font-size: var(--font-size-109xl);
+  width: 352px;
+  height: 187px;
+}
+.all-over,
+.brooklyn,
+.new-york,
+.the-world {
+  top: 4345px;
+  left: calc(50% - 381px);
+  letter-spacing: -0.05em;
+  width: 762px;
+  height: 156px;
+}
+.all-over,
+.new-york,
+.the-world {
+  top: 5304px;
+  left: calc(50% - 281px);
+  width: 562px;
+  height: 154px;
+}
+.new-york,
+.the-world {
+  top: 4486px;
+  left: calc(50% - 341px);
+  width: 682px;
+  height: 200px;
+}
+.the-world {
+  top: 5424px;
+  left: calc(50% - 360px);
+  width: 721px;
+}
+.red-antlers-team-felt-like-a {
+  margin: 0;
+}
+.tim-brown1 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.get-the-update-container1,
+.red-antlers-team-container {
+  position: absolute;
+  letter-spacing: -0.06em;
+  display: inline-block;
+  text-align: center;
+  width: 1211px;
+}
+.red-antlers-team-container {
+  top: 7676px;
+  left: 38px;
+  height: 425px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-red);
+}
+.get-the-update-container1 {
+  top: 8227px;
+  left: 35px;
+  font-size: var(--font-size-45xl);
+  height: 261px;
+}
+.image-14-icon1 {
+  position: absolute;
+  top: 8206px;
+  left: 765px;
+  width: 96px;
+  height: 116px;
+  object-fit: cover;
+}
+.about-item {
+  position: absolute;
+  top: 8482px;
+  left: 146px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-linen);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 995px;
+  height: 111px;
+}
+.enter-email-address1 {
+  position: absolute;
+  top: 8516px;
+  left: 194px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.06em;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 601px;
+  height: 55px;
+}
+.about-inner {
+  position: absolute;
+  top: 8726px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1280px;
+  height: 774px;
+}
+.red-antler-is1 {
+  position: absolute;
+  top: 8778px;
+  left: 36px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.06em;
+  display: inline-block;
+  color: var(--color-white);
+  width: 581px;
+  height: 112px;
+}
+.image-15-icon1 {
+  position: absolute;
+  top: 8777px;
+  left: 669px;
+  width: 96px;
+  height: 57px;
+  object-fit: cover;
+}
+.meet-wildfruit3 {
+  font-family: var(--font-poppins);
+}
+.learn-more6 {
+  text-decoration: underline;
+}
+.learn-more5 {
+  color: inherit;
+}
+.instagram-linkedin1,
+.meet-wildfruit-a-container1,
+.red-antler2,
+.work-about-clients-container1 {
+  position: absolute;
+  top: 8777px;
+  left: 783px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.06em;
+  color: var(--color-white);
+  display: inline-block;
+  width: 265px;
+  height: 180px;
+}
+.instagram-linkedin1,
+.red-antler2,
+.work-about-clients-container1 {
+  top: 8778px;
+  left: 1116px;
+  width: 164px;
+  height: 253px;
+}
+.instagram-linkedin1,
+.red-antler2 {
+  top: 9285px;
+  width: 118px;
+  height: 72px;
+}
+.red-antler2 {
+  top: 9157px;
+  left: 36px;
+  font-size: var(--font-size-184xl);
+  width: 975px;
+  height: 255px;
+}
+.image-14-icon2 {
+  position: absolute;
+  top: 12px;
+  left: 63px;
+  width: 85px;
+  height: 95px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.about-child1 {
+  position: absolute;
+  top: 864px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1280px;
+  height: 1302px;
+}
+.every-business-we-container,
+.red-antler3 {
+  position: absolute;
+  top: 1002px;
+  left: 172px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: -0.01em;
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 943px;
+  height: 645px;
+}
+.red-antler3 {
+  top: 2053px;
+  left: 978px;
+  text-decoration: underline;
+  font-family: var(--font-itim);
+  width: 227px;
+  height: 41px;
+}
+.every-project-is {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.what-we-do-container {
+  position: absolute;
+  top: 2304px;
+  left: 168px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 943px;
+  height: 307px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-inter);
+}
+.research {
+  margin-bottom: 0;
+}
+.research-brand-strategy-brand {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.research-brand-strategy-container {
+  position: absolute;
+  top: 2632px;
+  left: 145px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.01em;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 522px;
+  height: 467px;
+}
+.image-29-icon,
+.image-30-icon,
+.image-31-icon {
+  position: absolute;
+  top: 3559px;
+  left: calc(50% - 293px);
+  width: 557px;
+  height: 547px;
+  object-fit: cover;
+}
+.image-30-icon,
+.image-31-icon {
+  top: 4627px;
+  left: calc(50% - 286px);
+  width: 573px;
+  height: 455px;
+}
+.image-31-icon {
+  top: 5595px;
+  left: calc(50% - 285px);
+  width: 571px;
+  height: 442px;
+}
+.image-32-icon,
+.line-icon {
+  position: absolute;
+  top: 6372px;
+  left: 45px;
+  width: 1189px;
+  height: 388px;
+  object-fit: cover;
+}
+.line-icon {
+  top: 6125px;
+  left: 38px;
+  width: 1204px;
+  height: 4px;
+  object-fit: contain;
+}
+.leadership {
+  position: absolute;
+  top: 6246px;
+  left: 53px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 213px;
+  height: 60px;
+}
+.emily-heyward-cofounder-container,
+.haynes-david-partner-container,
+.haynes-david-partner-container1 {
+  position: absolute;
+  top: 6787px;
+  left: 53px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 380px;
+  height: 162px;
+}
+.haynes-david-partner-container,
+.haynes-david-partner-container1 {
+  top: 7420px;
+  left: 45px;
+  width: 363px;
+}
+.haynes-david-partner-container1 {
+  top: 7413px;
+  left: 886px;
+}
+.andrea-palacios-managing-container,
+.blake-lyon-partner-container,
+.jb-osborne-cofounder-container {
+  position: absolute;
+  top: 7413px;
+  left: 433px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 363px;
+  height: 162px;
+}
+.blake-lyon-partner-container,
+.jb-osborne-cofounder-container {
+  top: 6787px;
+  left: 450px;
+  width: 380px;
+}
+.blake-lyon-partner-container {
+  left: 854px;
+}
+.image-33-icon {
+  position: absolute;
+  top: 6980px;
+  left: 49px;
+  width: 1185px;
+  height: 427px;
+  object-fit: cover;
+}
+.about2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 9500px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

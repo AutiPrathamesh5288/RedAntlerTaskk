@@ -1,0 +1,514 @@
+.image-18-icon3,
+.work11 {
+  position: absolute;
+  left: 0;
+  cursor: pointer;
+}
+.image-18-icon3 {
+  top: 0;
+  width: 96px;
+  height: 116px;
+  object-fit: cover;
+}
+.work11 {
+  top: 25px;
+  display: inline-block;
+  width: 59px;
+  height: 23px;
+}
+.frame164,
+.frame165 {
+  position: absolute;
+  top: 0;
+  left: 691px;
+  width: 59px;
+  height: 48px;
+  overflow: hidden;
+}
+.frame164 {
+  left: 0;
+  width: 750px;
+  height: 116px;
+}
+.about11 {
+  top: 25px;
+  display: inline-block;
+  width: 74px;
+  height: 23px;
+  cursor: pointer;
+}
+.about11,
+.clients11,
+.frame168 {
+  position: absolute;
+  left: 0;
+}
+.frame168 {
+  top: 0;
+  width: 74px;
+  height: 48px;
+  overflow: hidden;
+}
+.clients11 {
+  top: 25px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 72px;
+  height: 23px;
+}
+.frame167,
+.frame169 {
+  position: absolute;
+  top: 0;
+  left: 102px;
+  width: 72px;
+  height: 48px;
+  overflow: hidden;
+}
+.frame167 {
+  left: 0;
+  width: 174px;
+}
+.contact11,
+.frame171 {
+  position: absolute;
+  width: 83px;
+}
+.contact11 {
+  top: 25px;
+  left: 0;
+  display: inline-block;
+  height: 23px;
+  cursor: pointer;
+}
+.frame171 {
+  top: 0;
+  left: 107px;
+  height: 48px;
+  overflow: hidden;
+}
+.careers10 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  display: inline-block;
+  width: 82px;
+  height: 23px;
+  cursor: pointer;
+}
+.frame162,
+.frame163,
+.frame166,
+.frame170,
+.frame172 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 82px;
+  height: 48px;
+  overflow: hidden;
+}
+.frame162,
+.frame163,
+.frame166,
+.frame170 {
+  left: 203px;
+  width: 190px;
+}
+.frame162,
+.frame163,
+.frame166 {
+  left: 791px;
+  width: 393px;
+}
+.frame162,
+.frame163 {
+  left: 1361px;
+  width: 1184px;
+  height: 116px;
+}
+.frame162 {
+  left: 0;
+  width: 2545px;
+}
+.prelaunch {
+  margin: 0;
+}
+.blank-line12 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.prelaunch-we-work-container {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  display: inline-block;
+  width: 935px;
+  height: 328px;
+}
+.frame175 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 988px;
+  height: 328px;
+  overflow: hidden;
+}
+.screenshot-11-1 {
+  position: absolute;
+  top: 327px;
+  left: 0;
+  width: 1100px;
+  height: 638px;
+  object-fit: cover;
+}
+.frame174 {
+  top: 0;
+  left: 1367px;
+  width: 1100px;
+  height: 965px;
+}
+.frame161,
+.frame173,
+.frame174 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame173 {
+  top: 180px;
+  left: 0;
+  width: 2467px;
+  height: 965px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-poppins);
+}
+.frame161 {
+  top: 23px;
+  left: -1300px;
+  width: 2545px;
+  height: 1145px;
+}
+.growth-stage {
+  margin: 0;
+  font-size: var(--font-size-77xl);
+}
+.growth-stage-we-container {
+  position: absolute;
+  top: 0;
+  left: 1415px;
+  display: inline-block;
+  width: 935px;
+  height: 328px;
+}
+.frame178 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2350px;
+  height: 328px;
+  overflow: hidden;
+}
+.frame180,
+.image-22-icon3 {
+  position: absolute;
+  left: 0;
+  width: 622px;
+}
+.image-22-icon3 {
+  top: 259px;
+  height: 522px;
+  object-fit: cover;
+}
+.frame180 {
+  top: 0;
+  height: 781px;
+  overflow: hidden;
+}
+.screenshot-13-1 {
+  position: absolute;
+  top: 0;
+  left: 1406px;
+  width: 1068px;
+  height: 638px;
+  object-fit: cover;
+}
+.frame177,
+.frame179 {
+  position: absolute;
+  top: 435px;
+  left: 0;
+  width: 2474px;
+  height: 781px;
+  overflow: hidden;
+}
+.frame177 {
+  top: 0;
+  height: 1216px;
+}
+.frame182,
+.learn-more19 {
+  position: absolute;
+  height: 81px;
+}
+.learn-more19 {
+  top: 0;
+  left: 1432px;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 343px;
+}
+.frame182 {
+  top: 4490px;
+  left: 0;
+  width: 1775px;
+  overflow: hidden;
+}
+.frame-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-linen);
+  width: 1280px;
+  height: 619px;
+}
+.get-the-update-container5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.06em;
+  display: inline-block;
+  width: 1211px;
+  height: 261px;
+}
+.frame185 {
+  position: absolute;
+  top: 116px;
+  left: 35px;
+  width: 1245px;
+  height: 261px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+}
+.frame186,
+.image-14-icon6 {
+  position: absolute;
+  height: 116px;
+}
+.image-14-icon6 {
+  top: 0;
+  left: 0;
+  width: 96px;
+  object-fit: cover;
+}
+.frame186 {
+  top: 95px;
+  left: 765px;
+  width: 515px;
+  overflow: hidden;
+}
+.frame-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-linen);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 995px;
+  height: 111px;
+}
+.frame-icon5,
+.frame187 {
+  position: absolute;
+  top: 371px;
+  left: 146px;
+  width: 1134px;
+  height: 111px;
+  overflow: hidden;
+}
+.frame-icon5 {
+  top: 408px;
+  left: 1048px;
+  width: 232px;
+  height: 55px;
+}
+.enter-email-address5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.06em;
+  display: inline-block;
+  width: 601px;
+  height: 55px;
+}
+.frame188 {
+  position: absolute;
+  top: 405px;
+  left: 194px;
+  width: 1086px;
+  height: 55px;
+  overflow: hidden;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-200);
+}
+.frame-child11 {
+  position: absolute;
+  top: 615px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1280px;
+  height: 774px;
+}
+.frame189,
+.red-antler-is5 {
+  position: absolute;
+  height: 112px;
+}
+.red-antler-is5 {
+  top: 0;
+  left: 0;
+  letter-spacing: -0.06em;
+  display: inline-block;
+  width: 581px;
+}
+.frame189 {
+  top: 667px;
+  left: 36px;
+  width: 1244px;
+  overflow: hidden;
+  font-size: var(--font-size-13xl);
+}
+.frame190,
+.image-15-icon5 {
+  position: absolute;
+  height: 57px;
+}
+.image-15-icon5 {
+  top: 0;
+  left: 0;
+  width: 96px;
+  object-fit: cover;
+}
+.frame190 {
+  top: 666px;
+  left: 669px;
+  width: 611px;
+  overflow: hidden;
+}
+.meet-wildfruit11 {
+  font-family: var(--font-poppins);
+}
+.learn-more22 {
+  text-decoration: underline;
+}
+.learn-more21 {
+  color: inherit;
+}
+.meet-wildfruit-a-container5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.06em;
+  display: inline-block;
+  width: 265px;
+  height: 180px;
+}
+.frame191 {
+  position: absolute;
+  top: 666px;
+  left: 783px;
+  width: 497px;
+  height: 180px;
+  overflow: hidden;
+}
+.instagram-linkedin5,
+.work-about-clients-container5 {
+  position: absolute;
+  top: 667px;
+  left: 1116px;
+  letter-spacing: -0.06em;
+  display: inline-block;
+  width: 164px;
+  height: 253px;
+}
+.instagram-linkedin5 {
+  top: 0;
+  left: 0;
+  width: 118px;
+  height: 72px;
+}
+.frame192 {
+  position: absolute;
+  top: 1174px;
+  left: 1116px;
+  width: 164px;
+  height: 72px;
+  overflow: hidden;
+}
+.red-antler7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.06em;
+  display: inline-block;
+  width: 975px;
+  height: 255px;
+}
+.frame184,
+.frame193 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame193 {
+  top: 1046px;
+  left: 36px;
+  width: 1244px;
+  height: 255px;
+  font-size: var(--font-size-184xl);
+}
+.frame184 {
+  top: 0;
+  left: 1300px;
+  width: 1280px;
+  height: 1389px;
+}
+.frame183 {
+  top: 0;
+  left: 0;
+  height: 1389px;
+  font-size: var(--font-size-5xl);
+}
+.frame176,
+.frame181,
+.frame183 {
+  position: absolute;
+  width: 2580px;
+  overflow: hidden;
+}
+.frame181 {
+  top: 1440px;
+  left: 0;
+  height: 4571px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.frame176 {
+  top: 1293px;
+  left: -1300px;
+  height: 6011px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.clients10 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4095px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
